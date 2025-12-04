@@ -15,7 +15,7 @@ My focus is creating products that feel:
 💚 Human  
 🎯 Purpose-driven  
 🎨 Visually calming but playful  
-📱 Simple — yet thoughtfully crafted  
+📱 Simple —> yet thoughtfully crafted  
 
 ---
 
@@ -72,7 +72,7 @@ A wellness app helping users track gut health patterns and IBS symptoms.
 ### 📫 Let’s Connect
 
 💌 Open to collaboration, learning, or just good UI talks.  
-If the product improves someone's day — I'm in.
+If the product improves someone's day —> I'm in.
 
 ---
 
